@@ -1,0 +1,82 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.nav-div{
+    background-color:white;
+
+}
+.main-div{
+    width: 100%;
+    padding: 0px;
+    height: 92.67vh;
+    background-color:#ff8107;;
+}
+.row{
+    height: 100%;
+}
+.brand-logo-image{
+    height: 30rem;
+    width: 40rem;
+    border-radius: 2rem;
+}
+h1{
+    font-size:3rem;
+    margin-left: 6rem;
+    font-weight: bolder;
+}
+.intro-para{
+    margin-left:6rem;
+    margin-top: -4rem;
+    font-size: 1.15rem;
+}
+.signup-div{
+    margin-left: 13rem;
+}
+.email-div{
+    height: 2.5rem;
+    width:15rem;
+    border: 0px;
+    outline: 0px;
+    border-radius: 0.35rem;
+}
+button{
+    height: 2.5rem;
+    width: 6rem;
+    margin-left: 1rem;
+    background-color: #46cf34;
+    border: 0px;
+    outline: 0px;
+    border-radius: 0.35rem;
+    font-weight: bold;
+}
+button:hover{
+    cursor: pointer;
+    background-color: #34a525;
+}
+.review-div{
+    margin-left: 10rem;
+}
+.review-stock{
+    height: 3rem;
+    width: 3rem;
+    border-radius: 50%;
+    margin-left: -1.15rem;
+    cursor: pointer;
+    position: relative;
+    border: 3px solid  #ff8107;
+}
+.review-div-writing{
+    margin-left: 1rem;
+}
+.Coustmers-Review{
+    font-size: large;
+    margin-top: -1rem;
+}
+.review-div-writing-second{
+    margin-top: -1rem;
+}
+.right-div{
+    padding-right: 0px;
+}
